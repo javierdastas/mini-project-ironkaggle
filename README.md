@@ -1,8 +1,11 @@
 # mini-project-ironkaggle
 Machine Learning Workflow
 
+## Presentation
+  - [Presentation](presentation.pdf)
+
 ## Metrics Prediction and Test with Real Data
-  - [r2_score.txt](r2_score.txt)
+  - [R2 Scores](r2_score.txt)
 
 ## New Sales DataSet with "sales" feature included.
-  - [javier_dastas_sales_predictions.csv](data/javier_dastas_sales_predictions.csv)
+  - [New DataSet with "sales" Predictions](data/javier_dastas_sales_predictions.csv)
