@@ -1,0 +1,6 @@
+RandomForestRegresor with Training Data - R2: 0.94
+
+RandomForestRegresor Prediction with Real Data - R2: 0.92
+RandomForestRegresor with Real Data - R2: 0.89
+
+RandomForestRegresor R2 Difference with Real Data - R2: 0.03
